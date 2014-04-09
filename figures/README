@@ -1,0 +1,2 @@
+Reference figures with 
+\includegraphics[width=0.3\textwidth]{figures/your/path/to/img}
